@@ -1,13 +1,30 @@
 # Python Fundamentals for Geoscience
-
 ## Welcome
+Welcome to the Python Fundamentals for Geoscience repository!
 
-Hi and Welcome to the Python Fundamantals for Geoscience Repository. <br> This Repository is being constructed to make available learning materials and tools for data analytics comonly found in the geoscientists toolbox. There is a lot of information and exapmples for te financial services and sales analytics.  However, there is very little available in the public domain for scientists and engineers.<br>
-This is my attempt to help people get started with coding in Python and show some of they ways in which both old and new methjods of data analysis can be set up using Python.
+This repository is being developed to provide learning materials and tools tailored for data analytics in the geosciences. While there is a wealth of public resources focused on financial services and sales analytics, there is comparatively little available that addresses the specific needs of scientists and engineers.
+
+This project is my attempt to bridge that gap—helping newcomers get started with Python and illustrating how both traditional and modern data analysis techniques can be implemented in a geoscience context.
 
 ## Structure
-The scripts in this repository are from my own work on projects or for courses that I teach.  I have tried to break them down into managable chunks of code.<br>
-The current plan is to structure each lesson or demonstration into basic theory, demontrate several use casees, suggest a set of exercises to practice the methods and  provide references for further information.  For some Rabbit Holes for you to go down to chase interesting subjects that require more explanation than is needed for the demonstration. There will be at least one reference to start your exlporation.<br>
-Because I want to make the information avaiable to beginners and people who are not experieced coders I have used the JupyterLab/JupyterNotebook format. I have tried to keep the code as simple as possible. There are many ways to approach a problem and write code to carry out a calcuation so search around, ask your colleagues who use Python and try various options to fins dout what works for you. Other IDE's and code editors have differs requirements and you may want to use a differet one dependig on your needs.
+The scripts included here are drawn from my own project work and the courses I teach. I've broken them down into manageable chunks to make them easier to understand and adapt.
+
+Each lesson or demonstration typically includes:
+
+- A brief overview of the core theory,
+
+- Several practical use cases,
+
+- A set of exercises for hands-on practice,
+
+- References for further reading,
+
+- Occasional “Rabbit Holes” to explore deeper or tangential topics that go beyond the scope of the main lesson (each with at least one starting reference).
+
+To make the content accessible to beginners and those without a coding background, the materials are provided in Jupyter Notebooks. I've aimed to keep the code as simple and readable as possible.
+
+There is no single "correct" way to solve a problem in Python—different approaches and coding styles can achieve the same result. I encourage you to explore alternatives, ask colleagues, and experiment to find what works best for you. While this repository uses JupyterLab/Notebook, you're welcome to use any IDE or code editor that suits your workflow.
+
+
 
 
