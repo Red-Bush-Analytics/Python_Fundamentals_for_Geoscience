@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 # Python Fundamentals for Geoscience
 ## Welcome
 Welcome to the Python Fundamentals for Geoscience repository!
