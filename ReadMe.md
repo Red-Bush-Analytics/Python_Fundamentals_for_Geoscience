@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](<Title_Python_logo_ Jun 23, 2025, 06_46_44 PM-1.png>)
 
 # Python Fundamentals for Geoscience
 ## Welcome
